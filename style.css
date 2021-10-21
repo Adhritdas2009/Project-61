@@ -1,0 +1,22 @@
+body{
+    background-color:seagreen;
+    text-align: center;
+}
+
+img:hover{
+    transform:scale(1.4) ;
+}
+
+img{
+    border: 10px blue ridge ;
+}
+
+#picture{
+    width:300px;
+    
+}
+
+#picture2{
+    width:300px;
+    height:350px;
+}
